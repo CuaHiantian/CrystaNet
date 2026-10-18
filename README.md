@@ -10,13 +10,13 @@ CrystaNet is a deep learning framework developed to analyze crystallization-deri
 
 ### 1. Healthy Controls vs. Liver Fibrosis
 
-Directory: `CrystaNet_GitHub_HC_vs_LF/`
+[Browse source code](./CrystaNet_GitHub_HC_vs_LF/)
 
 This module contains the code for binary classification of healthy controls and participants with liver fibrosis, including internal five-fold cross-validation, final model training, and external validation.
 
 ### 2. F0 vs. F1 Liver Fibrosis
 
-Directory: `CrystaNet-F1_GitHub_F0_F1/`
+[Browse source code](./CrystaNet-F1_GitHub_F0_F1/)
 
 This module contains the code for distinguishing F0 from F1 liver fibrosis, including internal five-fold cross-validation and external validation.
 
